@@ -221,3 +221,105 @@
 2025-08-04 17:55:26 INFO  - Label 'File Name' :: Getting text from element
 2025-08-04 17:55:26 INFO  - Label 'File Name' :: Element's text: [file.json]
 2025-08-04 17:55:26 INFO  - Closing browser
+2025-08-05 13:52:09 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:09 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:52:10 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:52:10 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:52:10 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:52:10 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:10 INFO  - Maximizing browser window
+2025-08-05 13:52:10 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:52:14 INFO  - Link 'JavaScript Alerts' :: Clicking
+2025-08-05 13:52:15 INFO  - Button 'Click for JS alert' :: Clicking
+2025-08-05 13:52:15 INFO  - Accepting browser alert
+2025-08-05 13:52:15 INFO  - Closing browser
+2025-08-05 13:52:15 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:15 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:52:16 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:52:16 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:52:16 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:52:16 INFO  - Maximizing browser window
+2025-08-05 13:52:16 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:52:21 INFO  - Closing browser
+2025-08-05 13:52:21 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:21 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:52:22 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:52:22 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:52:22 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:52:22 INFO  - Maximizing browser window
+2025-08-05 13:52:22 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:52:25 INFO  - Link 'Sortable Data Tables' :: Clicking
+2025-08-05 13:52:26 INFO  - Label 'due 1' :: Getting text from element
+2025-08-05 13:52:26 INFO  - Label 'due 1' :: Element's text: [$50.00]
+2025-08-05 13:52:26 INFO  - Label 'due 2' :: Getting text from element
+2025-08-05 13:52:26 INFO  - Label 'due 2' :: Element's text: [$51.00]
+2025-08-05 13:52:26 INFO  - Label 'due 3' :: Getting text from element
+2025-08-05 13:52:26 INFO  - Label 'due 3' :: Element's text: [$100.00]
+2025-08-05 13:52:26 INFO  - Label 'due 4' :: Getting text from element
+2025-08-05 13:52:26 INFO  - Label 'due 4' :: Element's text: [$50.00]
+2025-08-05 13:52:26 INFO  - Closing browser
+2025-08-05 13:52:26 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:26 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:52:27 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:52:27 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:52:27 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:52:27 INFO  - Maximizing browser window
+2025-08-05 13:52:27 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:52:31 INFO  - Link 'File Upload' :: Clicking
+2025-08-05 13:52:31 INFO  - Text Field 'Upload' :: Clearing
+2025-08-05 13:52:31 INFO  - Text Field 'Upload' :: Typing 'C:\Users\Mehedi Hasan SQA\IdeaProjects\java_farmework1\src\test\resources\testdata\file.json'
+2025-08-05 13:52:31 INFO  - Button 'Submit' :: Clicking
+2025-08-05 13:52:32 INFO  - Label 'File Name' :: Getting text from element
+2025-08-05 13:52:32 INFO  - Label 'File Name' :: Element's text: [file.json]
+2025-08-05 13:52:32 INFO  - Closing browser
+2025-08-05 13:52:32 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:32 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:52:33 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:52:33 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:52:33 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:52:33 INFO  - Maximizing browser window
+2025-08-05 13:52:33 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:52:40 INFO  - Closing browser
+2025-08-05 13:52:40 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:52:40 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:52:41 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:52:41 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:52:41 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:52:41 INFO  - Maximizing browser window
+2025-08-05 13:52:41 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:52:44 INFO  - Link 'Dynamic Controls' :: Clicking
+2025-08-05 13:52:45 INFO  - Button 'Status Enable' :: Clicking
+2025-08-05 13:52:45 INFO  - Text Field 'Text Status' :: Waiting for element to be enabled
+2025-08-05 13:52:48 INFO  - Text Field 'Text Status' :: Clearing
+2025-08-05 13:52:48 INFO  - Text Field 'Text Status' :: Typing '2b87a6fb-d076-4ab5-afe8-93be8fa9365d'
+2025-08-05 13:52:48 INFO  - Text Field 'Text Status' :: Getting attribute 'value'
+2025-08-05 13:52:48 INFO  - Text Field 'Text Status' :: Value of attribute 'value': [2b87a6fb-d076-4ab5-afe8-93be8fa9365d]
+2025-08-05 13:52:48 INFO  - Closing browser
+2025-08-05 13:53:55 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:53:55 DEBUG - Got browser logging preferences from settings file: 
+{Performance=All}
+2025-08-05 13:53:56 DEBUG - Set '15' timeout in seconds for loading of pages
+2025-08-05 13:53:56 DEBUG - Set async javascript execution timeout '10' in seconds
+2025-08-05 13:53:56 INFO  - Browser 'CHROME' ready...
+2025-08-05 13:53:56 DEBUG - Got browser profile options from settings file: 
+{disable-popup-blocking=true, profile.default_content_settings.popups=0, download.prompt_for_download=false, intl.accept_languages=en, safebrowsing.enabled=true, download.default_directory=./downloads}
+2025-08-05 13:53:56 INFO  - Maximizing browser window
+2025-08-05 13:53:56 INFO  - Navigate to url - 'https://the-internet.herokuapp.com'
+2025-08-05 13:54:00 INFO  - Link 'File Download' :: Clicking
+2025-08-05 13:54:00 INFO  - Link 'Test.txt' :: Waiting for element to be enabled
+2025-08-05 13:54:00 INFO  - Link 'Test.txt' :: Clicking
+2025-08-05 13:54:00 INFO  - Closing browser
